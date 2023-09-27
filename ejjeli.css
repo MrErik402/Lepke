@@ -1,0 +1,21 @@
+.kepek{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+a:active, a:visited,a:link{
+    color: white;
+}
+#masodik_oldal{
+    background-color: white;
+}
+#mas_tab{
+    color: white;
+}
+#harmadik{
+    display: block;
+    float: left;
+}
+h1{
+    color: black;
+}
